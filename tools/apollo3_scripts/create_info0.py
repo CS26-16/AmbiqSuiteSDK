@@ -74,9 +74,6 @@ def process(valid, version, output, mainPtr, secPol, keyWrap, secBoot, secBootOn
     if (chip == 'apollo3'):
         import apollo3_info0 as info0
         am_print("Apollo3 INFO0")
-    elif (chip == 'apollo3p'):
-        import apollo3p_info0 as info0
-        am_print("Apollo3P INFO0")
 
     filenames = keyFile.split('.')
     keys = importlib.import_module(filenames[0])
