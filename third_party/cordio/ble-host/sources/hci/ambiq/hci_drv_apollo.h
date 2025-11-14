@@ -91,7 +91,7 @@ extern uint32_t HciDrvRadioBoot(bool bColdBoot);
 #if defined(AM_PART_APOLLO3) || defined(AM_PART_APOLLO3P)
 extern uint32_t HciDrvRadioBoot(bool bColdBoot);
 #else
-extern void HciDrvRadioBoot(uint32_t ui32UartModule);
+extern uint32_t HciDrvRadioBoot(bool);
 #endif
 #endif
 
