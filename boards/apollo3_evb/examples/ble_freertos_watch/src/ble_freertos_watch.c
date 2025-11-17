@@ -104,7 +104,7 @@ enable_print_interface(void)
 //
 //*****************************************************************************
 int
-main(void)
+ble_init(void)
 {
     //
     // Set the clock frequency
