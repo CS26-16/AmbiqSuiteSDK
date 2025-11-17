@@ -86,4 +86,6 @@
 //*****************************************************************************
 #include "radio_task.h"
 
+extern int ble_init(void);
+
 #endif // FREERTOS_FIT_H

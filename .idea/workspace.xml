@@ -14,7 +14,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4afae8b2-117b-4489-b862-614f8139f44c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boards/apollo3_evb/examples/ble_freertos_watch/src/ble_freertos_watch.c" beforeDir="false" afterPath="$PROJECT_DIR$/boards/apollo3_evb/examples/ble_freertos_watch/src/ble_freertos_watch.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boards/apollo3_evb/examples/ble_freertos_watch/src/ble_freertos_watch.h" beforeDir="false" afterPath="$PROJECT_DIR$/boards/apollo3_evb/examples/ble_freertos_watch/src/ble_freertos_watch.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +85,7 @@
       <workItem from="1763093882885" duration="2983000" />
       <workItem from="1763096894155" duration="8116000" />
       <workItem from="1763418945116" duration="535000" />
-      <workItem from="1763419730062" duration="73000" />
+      <workItem from="1763419730062" duration="685000" />
     </task>
     <servers />
   </component>
